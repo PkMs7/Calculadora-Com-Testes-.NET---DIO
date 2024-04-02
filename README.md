@@ -2,7 +2,7 @@
 
 1. Criação do Projeto
 
-    ````dotnet new console```
+    ```dotnet new console```
 
 2. Utilização do Framework de testes xUnit (Framework nativo do .NET)
 

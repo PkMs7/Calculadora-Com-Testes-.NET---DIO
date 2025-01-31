@@ -19,4 +19,4 @@
     
     - Obs.: Tudo pode ser feito via comando de terminal, porém o código é mais extenso por conta dos PATHS.
 
-<!-- Teste 5 Integração Jira -->
+<!-- Teste 6 Integração Jira -->
